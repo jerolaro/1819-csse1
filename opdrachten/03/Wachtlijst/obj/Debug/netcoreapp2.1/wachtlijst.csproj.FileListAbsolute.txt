@@ -1,0 +1,11 @@
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\wachtlijst\bin\Debug\netcoreapp2.1\wachtlijst.deps.json
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\wachtlijst\bin\Debug\netcoreapp2.1\wachtlijst.runtimeconfig.json
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\wachtlijst\bin\Debug\netcoreapp2.1\wachtlijst.runtimeconfig.dev.json
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\wachtlijst\bin\Debug\netcoreapp2.1\wachtlijst.dll
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\wachtlijst\bin\Debug\netcoreapp2.1\wachtlijst.pdb
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\wachtlijst\obj\Debug\netcoreapp2.1\wachtlijst.csprojAssemblyReference.cache
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\wachtlijst\obj\Debug\netcoreapp2.1\wachtlijst.csproj.CoreCompileInputs.cache
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\wachtlijst\obj\Debug\netcoreapp2.1\wachtlijst.AssemblyInfoInputs.cache
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\wachtlijst\obj\Debug\netcoreapp2.1\wachtlijst.AssemblyInfo.cs
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\wachtlijst\obj\Debug\netcoreapp2.1\wachtlijst.dll
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\wachtlijst\obj\Debug\netcoreapp2.1\wachtlijst.pdb

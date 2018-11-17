@@ -1,0 +1,11 @@
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\menu\bin\Debug\netcoreapp2.1\menu.deps.json
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\menu\bin\Debug\netcoreapp2.1\menu.runtimeconfig.json
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\menu\bin\Debug\netcoreapp2.1\menu.runtimeconfig.dev.json
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\menu\bin\Debug\netcoreapp2.1\menu.dll
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\menu\bin\Debug\netcoreapp2.1\menu.pdb
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\menu\obj\Debug\netcoreapp2.1\menu.csprojAssemblyReference.cache
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\menu\obj\Debug\netcoreapp2.1\menu.csproj.CoreCompileInputs.cache
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\menu\obj\Debug\netcoreapp2.1\menu.AssemblyInfoInputs.cache
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\menu\obj\Debug\netcoreapp2.1\menu.AssemblyInfo.cs
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\menu\obj\Debug\netcoreapp2.1\menu.dll
+C:\Users\scrim\Code\1819-CSSE1\opdrachten\opdracht3\menu\obj\Debug\netcoreapp2.1\menu.pdb
